@@ -10,7 +10,6 @@ warnings.filterwarnings("ignore")
 def countPdfPages():
     current_page = str(os.getcwd())
     total_pages = 0
-    algo = 0
 
     for (archiveDirPath, dirNames, fileNames) in os.walk(current_page):
         for file_name in fileNames:
