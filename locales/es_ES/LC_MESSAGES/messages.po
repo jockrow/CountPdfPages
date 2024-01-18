@@ -1,0 +1,13 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: es_ES\n"
+
+msgid "Hello, World!"
+msgstr "Hola Mundo"
+
+msgid "Files not found"
+msgstr "No se encontraron archivos"
+
+msgid "Total Pages"
+msgstr "Páginas Totales"
